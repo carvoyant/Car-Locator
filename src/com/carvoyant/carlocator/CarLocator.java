@@ -42,7 +42,7 @@ public class CarLocator extends ActionBarActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_car_locater);
+		setContentView(R.layout.activity_car_locator);
         map = ((MapFragment) getFragmentManager()
                 .findFragmentById(R.id.map)).getMap();
         map.moveCamera(CameraUpdateFactory.zoomTo(13));
