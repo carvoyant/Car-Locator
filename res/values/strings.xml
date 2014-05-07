@@ -5,7 +5,7 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_oauth">OAuth</string>
-    <string name="title_activity_car_locater">Car Locater</string>
+    <string name="title_activity_car_locator">Car Locator</string>
     <string name="OAuthPrompt">We need your permision to access your vehicle data through your Carvoyant account.\n\nTap the button below to login and begin using our application!</string>
 	<string name="login">Login</string>
 	
